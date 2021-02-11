@@ -1,0 +1,4 @@
+Prueba numero 1 para crear archivo de texto en maquina virtual
+
+ls
+ls -1
